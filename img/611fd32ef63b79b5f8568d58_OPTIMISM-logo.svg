@@ -1,0 +1,7 @@
+<svg width="150" height="20" xmlns="http://www.w3.org/2000/svg">
+    <!-- Rectangle background -->
+    <rect width="150" height="20" fill="#FFFFFF"/>
+
+    <!-- Text element with styling -->
+    <text x="10" y="15" font-family="Rubik, Arial, sans-serif" font-size="14" fill="#FF0420">Bitcoin Smart Chain</text>
+</svg>
